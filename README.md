@@ -1,2 +1,3 @@
 # Python
-Function to validate whether a number is prime or not.
+
+1) Prime Number: Function to validate whether a number is prime or not.
